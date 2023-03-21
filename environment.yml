@@ -1,0 +1,6 @@
+name: testing
+dependencies:
+  - python
+  - black
+  - flake8
+  - pytest
